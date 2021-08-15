@@ -1,0 +1,8 @@
+taglia,colore,prezzo
+s,bianco,4.99
+m,bianco,19.99
+xl,rosso,12.49
+xl,verde,14.99
+s,bianco,9.99
+m,verde,9.99
+xl,rosso,13.99
